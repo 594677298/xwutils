@@ -8,7 +8,7 @@ xwutils
 npm install -g xwutils
 
 #github
-https://github.com/594677298/xwutils
+git@github.com:594677298/xwutils.git
 
 #usage
 let formatter = require('./index')
