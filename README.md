@@ -8,7 +8,7 @@ xwutils
 npm install -g xwutils
 
 #github
-https://github.com/shiyuan598/FrontEnd/tree/master/npm/datetime-format
+https://github.com/594677298/xwutils
 
 #usage
 let formatter = require('./index')
