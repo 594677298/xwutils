@@ -1,0 +1,14 @@
+{
+  "name": "xwutils",
+  "version": "1.0.0",
+  "description": "xwutils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xw"
+  ],
+  "author": "zhangzhongshan",
+  "license": "ISC"
+}
